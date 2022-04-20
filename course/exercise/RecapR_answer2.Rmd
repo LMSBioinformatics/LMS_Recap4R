@@ -1,0 +1,75 @@
+---
+title: "LMS_Recap4R Answer 2"
+author: "MRC LMS"
+date: "`r format(Sys.time(), '%B %Y')`"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+These exercises cover the sections of Recap in R [LMS_Recap4R](https://lmsbioinformatics.github.io/LMS_PlottingInR/course/R_Recap_n_RegularExp_Presentation.html#).
+
+
+```{r,echo=F,eval=F}
+setwd("/Users/yfwang/GitHub_project/LMS_Recap4R/course/exercise/")
+```
+
+```{r,echo=F,eval=T}
+episodeExercise_df <- read.csv("../GoT_dataset/episode_data.csv")
+```
+
+# Answer 2
+
+* use _grep()_ function and _grepl()_ function to help us understand how `regular expressions` work in R. 
+
+Please load dataset `"GoT_dataset/episode_data.csv"` as **data.frame** and name it as `episodeExercise_df.` Then add a new column `Contain.Winter` to `episodeExercise_df`. If the `episode_name` column contains "Winter", `Contain.Winter` == "TRUE", otherwise `Contain.Winter` == "FALSE". Please subset this **data.frame** and keep rows with "Winter" in the episodeExercise_df.$episode_name.
+
+```{r,echo=T,eval=F}
+episodeExercise_df <- read.csv("GoT_dataset/episode_data.csv")
+```
+```{r,echo=T,eval=T}
+head(episodeExercise_df)
+
+# make it slimmer
+episodeExercise_df <- episodeExercise_df[,c(1:3)]
+```
+
+```{r eval=TRUE, echo=TRUE}
+# return logical vector
+Logical_winter <- grepl("Winter",episodeExercise_df$episode_name)
+Logical_winter
+
+# return indices
+Inx_winter <- grep("Winter",episodeExercise_df$episode_name)
+Inx_winter
+
+episodeExercise_df$Contain.Winter <- Logical_winter
+
+# further subset the episodeExercise_df and only keep rows with "Winter" in the episodeExercise_df$episode_name
+
+## option 1 - using logical vector
+episodeExercise_df_winter1 <-  episodeExercise_df[episodeExercise_df$Contain.Winter=="TRUE",]
+episodeExercise_df_winter1
+
+## option 2 - using indices
+episodeExercise_df_winter2 <- episodeExercise_df[Inx_winter,]
+episodeExercise_df_winter2
+
+```
+
+
+* we use _sub()_ function again to help us understand how `regular expressions` work in R. In episodeExercise_df_winter1$episode_name, if **Winter** is straight after " at the beginning of the string, replace it with **Spring**. If **Winter** is at the end of the string just before ", replace it with **Summer**. Keep **Winterfell** unchanged.
+
+```{r eval=TRUE, echo=TRUE}
+
+episodeExercise_df_winter1$newEpiName <- sub("(\")(Winter)(\\s.+)","\\1Spring\\3",
+                                          episodeExercise_df_winter1$episode_name)
+episodeExercise_df_winter1
+
+episodeExercise_df_winter1$newEpiName <- sub("(.+\\s)(Winter)(\")","\\1Summer\\3",
+                                           episodeExercise_df_winter1$newEpiName)
+episodeExercise_df_winter1
+```
+ 
+
+

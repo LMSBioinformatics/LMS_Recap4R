@@ -1,0 +1,87 @@
+---
+title: "LMS_Recap4R Exercise 1"
+author: "MRC LMS"
+date: "`r format(Sys.time(), '%B %Y')`"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+These exercises cover the sections of Recap in R [LMS_Recap4R](https://lmsbioinformatics.github.io/LMS_PlottingInR/course/R_Recap_n_RegularExp_Presentation.html#).
+
+
+```{r,echo=F,eval=F}
+setwd("/Users/yfwang/GitHub_project/LMS_Recap4R/course/exercise/")
+```
+
+```{r,echo=F,eval=T}
+episode_df <- read.csv("../GoT_dataset/episode_data.csv")
+```
+
+# Exercise 1
+
+* subset the data frame based on rows
+
+Please use the dataset `"GoT_dataset/episode_data.csv"` and practice subsetting the data frame based on rows for `season 1` with `gross_running_time < 3300`
+
+```{r,echo=F,eval=F}
+episode_df <- read.csv("GoT_dataset/episode_data.csv")
+```
+
+  (1) supply a logical vector for this task
+  
+
+```{r eval=F, echo=F}
+
+# define a logical vector using episode_df==1 & gross_running_time < 3300
+S1_short_logicVec <- (episode_df$season == 1 & episode_df$gross_running_time < 3300)
+
+# S1_short_logicVec is a vector with TRUE or FALSE values
+S1_short_logicVec
+
+class(S1_short_logicVec)
+
+# make sure the length of the logical vector is consistent with the original dataset
+## check the dimensions of the original dataset
+dim(episode_df)
+
+## check the length of the logical vector
+length(S1_short_logicVec)
+# use table function to see TRUE & FALSE
+table(S1_short_logicVec)
+
+# subset the original df using diffExpressed vector
+df_shortS1 <- episode_df[S1_short_logicVec,]
+
+# check the dimension of the new data frame
+dim(df_shortS1)
+
+# showing first 6 rows of the data frame
+head(df_shortS1)
+
+```
+
+  (2) supply an index vector for this task
+  
+ 
+```{r eval=F, echo=F}
+
+# define a logical vector using episode_df==1 & gross_running_time < 3300
+S1_short_Inx <- which(episode_df$season == 1 & episode_df$gross_running_time < 3300)
+
+# S1_short_Inx is a vector contains indices
+S1_short_Inx
+
+# subset the original df using S1_short_Inx vector
+df_shortS2 <- episode_df[S1_short_Inx,]
+
+# check the dimension of the new data frame
+dim(df_shortS2)
+
+# showing first 6 rows of the data frame
+head(df_shortS2)
+
+```
+ 
+
+

@@ -1,0 +1,360 @@
+"id","name","sex","religion","occupation","social_status","allegiance_last","allegiance_switched","dth_flag","exp_time_sec","exp_time_hrs"
+100,"Waymar Royce","M","Unknown/Unclear","Boiled leather collar","Lowborn","Night's Watch","N","1",342,0.1
+101,"Gared Tuttle","M","Unknown/Unclear","Boiled leather collar","Lowborn","Night's Watch","N","1",405,0.11
+102,"Will","M","Unknown/Unclear","Boiled leather collar","Lowborn","Night's Watch","N","1",692,0.19
+103,"Irri","F","Great Stallion","Boiled leather collar","Lowborn","Targaryen","Y","1",48489,13.47
+104,"Jon Snow","M","Old Gods","Boiled leather collar","Highborn","Night's Watch","Y","0",230347,63.99
+105,"Bran Stark","M","Old Gods","Silk collar","Highborn","Stark","N","0",230347,63.99
+106,"Robb Stark","M","Faith of the Seven","Silk collar","Highborn","Stark","N","1",87621,24.34
+107,"Rodrik Cassel","M","Unknown/Unclear","Boiled leather collar","Lowborn","Stark","N","1",45722,12.7
+108,"Rickon Stark","M","Old Gods","Unknown/Unclear","Highborn","Stark","N","1",176937,49.15
+109,"Eddard Stark","M","Old Gods","Silk collar","Highborn","Other","N","1",27606,7.67
+110,"Catelyn Stark","F","Faith of the Seven","Silk collar","Highborn","Stark","N","1",87640,24.34
+111,"Mordane ","F","Faith of the Seven","Silk collar","Lowborn","Other","N","1",27483,7.63
+112,"Sansa Stark","F","Old Gods","Silk collar","Highborn","Stark","Y","0",230317,63.98
+113,"Arya Stark","F","Many Faced God","Boiled leather collar","Highborn","Stark","Y","0",230316,63.98
+114,"Jory Cassel","M","Unknown/Unclear","Boiled leather collar","Lowborn","Stark","N","1",14989,4.16
+115,"Theon Greyjoy","M","Drowned God","Silk collar","Highborn","Stark","Y","1",216338,60.09
+116,"Cersei Lannister","F","Unknown/Unclear","Silk collar","Highborn","Lannister","N","1",225076,62.52
+117,"Jaime Lannister","M","Unknown/Unclear","Boiled leather collar","Highborn","Lannister","Y","1",225076,62.52
+118,"Luwin","M","Unknown/Unclear","Silk collar","Lowborn","Stark","N","1",58751,16.32
+119,"Joffrey Baratheon","M","Faith of the Seven","Silk collar","Highborn","Other","N","1",96246,26.74
+120,"Sandor Clegane","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","Y","1",224331,62.31
+121,"Hodor","M","Unknown/Unclear","Boiled leather collar","Lowborn","Stark","N","1",165429,45.95
+122,"Robert Baratheon","M","Faith of the Seven","Silk collar","Highborn","Other","N","1",20358,5.66
+123,"Myrcella Baratheon","F","Faith of the Seven","Silk collar","Highborn","Other","N","1",148790,41.33
+124,"Tommen Baratheon","M","Faith of the Seven","Silk collar","Highborn","Other","N","1",178528,49.59
+125,"Tyrion Lannister","M","Faith of the Seven","Silk collar","Highborn","Stark","Y","0",229137,63.65
+126,"Ros","F","Unknown/Unclear","Boiled leather collar","Lowborn","Other","Y","1",77204,21.45
+127,"Daenerys Targaryen","F","Unknown/Unclear","Silk collar","Highborn","Targaryen","N","1",224455,62.35
+128,"Viserys Targaryen","M","Faith of the Seven","Silk collar","Highborn","Targaryen","N","1",16729,4.65
+129,"Illyrio Mopatis","M","Unknown/Unclear","Boiled leather collar","Highborn","Unknown/Unclear","Y","0",228832,63.56
+130,"Qotho","M","Great Stallion","Boiled leather collar","Lowborn","Other","N","1",24851,6.9
+131,"Khal Drogo","M","Great Stallion","Boiled leather collar","Lowborn","Other","N","1",27976,7.77
+132,"Mago","M","Great Stallion","Boiled leather collar","Lowborn","Other","N","1",21428,5.95
+133,"Benjen Stark","M","Old Gods","Boiled leather collar","Highborn","Night's Watch","N","1",199224,55.34
+134,"Jorah Mormont","M","Old Gods","Boiled leather collar","Highborn","Targaryen","Y","1",214335,59.54
+135,"Doreah","F","Unknown/Unclear","Boiled leather collar","Lowborn","Other","Y","1",57246,15.9
+136,"Rast","M","Unknown/Unclear","Boiled leather collar","Lowborn","Night's Watch","N","1",101793,28.28
+137,"Catspaw Assassin","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","1",40,0.01
+138,"Ilyn Payne","M","Unknown/Unclear","Boiled leather collar","Lowborn","Lannister","N","0",225047,62.51
+139,"Mycah","M","Unknown/Unclear","Boiled leather collar","Lowborn","Unknown/Unclear","N","1",501,0.14
+140,"Royal Steward","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","0",224336,62.32
+141,"Petyr Baelish","M","Unknown/Unclear","Silk collar","Highborn","Stark","Y","1",198784,55.22
+142,"Renly Baratheon ","M","Faith of the Seven","Silk collar","Highborn","Other","N","1",36192,10.05
+143,"Varys","M","Unknown/Unclear","Silk collar","Highborn","Stark","Y","1",215793,59.94
+144,"Pycelle","M","Unknown/Unclear","Silk collar","Lowborn","Lannister","N","1",172761,47.99
+145,"Old Nan","F","Unknown/Unclear","Boiled leather collar","Lowborn","Stark","N","1",5420,1.51
+146,"Jeor Mormont","M","Old Gods","Boiled leather collar","Lowborn","Night's Watch","N","1",64671,17.96
+147,"Grenn","M","Unknown/Unclear","Boiled leather collar","Lowborn","Night's Watch","N","1",110173,30.6
+148,"Alliser Thorne","M","Unknown/Unclear","Boiled leather collar","Lowborn","Night's Watch","N","1",152788,42.44
+149,"Pypar","M","Unknown/Unclear","Boiled leather collar","Lowborn","Night's Watch","N","1",109141,30.32
+150,"Lancel Lannister","M","Faith of the Seven","Boiled leather collar","Highborn","Other","Y","1",171594,47.67
+151,"Barristan Selmy ","M","Unknown/Unclear","Boiled leather collar","Highborn","Targaryen","Y","1",125274,34.8
+152,"Rakharo","M","Great Stallion","Boiled leather collar","Lowborn","Targaryen","Y","1",26420,7.34
+153,"Yoren","M","Unknown/Unclear","Boiled leather collar","Lowborn","Night's Watch","N","1",31003,8.61
+154,"Aemon","M","Old Gods","Silk collar","Highborn","Night's Watch","N","1",130663,36.3
+155,"Syrio Forel","M","Many Faced God","Boiled leather collar","Lowborn","Stark","N","1",12907,3.59
+156,"Samwell Tarly","M","Old Gods","Silk collar","Highborn","Stark","Y","0",220883,61.36
+157,"Janos Slynt","M","Unknown/Unclear","Boiled leather collar","Lowborn","Night's Watch","Y","1",119005,33.06
+158,"Hugh","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","1",1085,0.3
+159,"Tobho Mott","M","Unknown/Unclear","Boiled leather collar","Lowborn","Unknown/Unclear","N","0",219517,60.98
+160,"Gendry Baratheon","M","Unknown/Unclear","Boiled leather collar","Highborn","Stark","Y","0",219512,60.98
+161,"Gregor Clegane","M","Unknown/Unclear","Boiled leather collar","Lowborn","Lannister","N","1",213450,59.29
+162,"Marillion","M","Unknown/Unclear","Boiled leather collar","Lowborn","Unknown/Unclear","N","0",218279,60.63
+163,"Bronn","M","Unknown/Unclear","Boiled leather collar","Highborn","Stark","Y","0",218244,60.62
+164,"Loras Tyrell","M","Faith of the Seven","Boiled leather collar","Highborn","Other","Y","1",166718,46.31
+165,"Vardis Egen","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","1",3669,1.02
+166,"Robin Arryn","M","Unknown/Unclear","Silk collar","Highborn","Stark","N","0",216158,60.04
+167,"Lysa Arryn","F","Unknown/Unclear","Silk collar","Highborn","Other","Y","1",97626,27.12
+168,"Mord","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","0",216043,60.01
+169,"Barra","F","Unknown/Unclear","Unknown/Unclear","Lowborn","Unknown/Unclear","N","1",18365,5.1
+170,"Mhaegen","F","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","0",215402,59.83
+171,"Osha","F","Old Gods","Boiled leather collar","Lowborn","Stark","Y","1",146930,40.81
+172,"Beric Dondarrion","M","Lord of Light","Boiled leather collar","Highborn","Other","Y","1",198327,55.09
+173,"Tywin Lannister","M","Faith of the Seven","Silk collar","Highborn","Lannister","N","1",102646,28.51
+174,"Armeca","F","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","0",211734,58.82
+175,"Wineseller Assassin","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","1",1547,0.43
+176,"Luke ","M","Unknown/Unclear","Boiled leather collar","Lowborn","Night's Watch","N","0",210296,58.42
+177,"Dareon ","M","Unknown/Unclear","Boiled leather collar","Lowborn","Night's Watch","N","0",210109,58.36
+178,"Mandon Moore","M","Unknown/Unclear","Boiled leather collar","Lowborn","Lannister","N","1",36493,10.14
+179,"Boros Blount","M","Unknown/Unclear","Boiled leather collar","Lowborn","Lannister","N","1",203537,56.54
+180,"Todder","M","Unknown/Unclear","Boiled leather collar","Lowborn","Night's Watch","N","0",210184,58.38
+181,"Meryn Trant","M","Faith of the Seven","Boiled leather collar","Lowborn","Lannister","N","1",127872,35.52
+182,"Stable boy","M","Unknown/Unclear","Boiled leather collar","Lowborn","Unknown/Unclear","N","1",15,0
+183,"Shagga","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","0",207954,57.77
+184,"Mirri Maz Duur","F","Other","Silk collar","Lowborn","Unknown/Unclear","N","1",7567,2.1
+185,"Greatjon Umber","M","Old Gods","Silk collar","Highborn","Stark","N","1",136891,38.03
+186,"Timett","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","Y","0",206578,57.38
+187,"Kevan Lannister","M","Unknown/Unclear","Boiled leather collar","Highborn","Lannister","N","1",155405,43.17
+188,"Chella ","F","Unknown/Unclear","Boiled leather collar","Lowborn","Other","Y","0",205781,57.16
+189,"Stevron Frey","M","Unknown/Unclear","Boiled leather collar","Highborn","Frey","N","1",157241,43.68
+190,"Joyeuse Erenford","F","Unknown/Unclear","Unknown/Unclear","Highborn","Frey","N","1",62743,17.43
+191,"Walder Frey","M","Faith of the Seven","Silk collar","Highborn","Frey","N","1",156145,43.37
+192,"Ryger Rivers","M","Unknown/Unclear","Boiled leather collar","Lowborn","Frey","N","1",157215,43.67
+193,"Arwaya Frey","F","Unknown/Unclear","Unknown/Unclear","Highborn","Frey","N","0",205427,57.06
+194,"Shae","F","Unknown/Unclear","Boiled leather collar","Lowborn","Lannister","N","1",94812,26.34
+195,"High Septon 1","M","Faith of the Seven","Silk collar","Lowborn","Other","N","1",19302,5.36
+196,"Rickard Karstark","M","Unknown/Unclear","Silk collar","Highborn","Stark","N","1",45591,12.66
+197,"Rorge","M","Unknown/Unclear","Boiled leather collar","Lowborn","Lannister","N","1",79696,22.14
+198,"Lommy Greenhands","M","Unknown/Unclear","Boiled leather collar","Lowborn","Unknown/Unclear","N","1",9615,2.67
+199,"Hot Pie","M","Unknown/Unclear","Boiled leather collar","Lowborn","Unknown/Unclear","N","0",200506,55.7
+200,"Jaqen H'ghar","M","Many Faced God","Boiled leather collar","Lowborn","Other","N","0",200398,55.67
+201,"Dontos Hollard","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","Y","1",66779,18.55
+202,"Aggo 1","M","Great Stallion","Boiled leather collar","Highborn","Targaryen","N","0",199112,55.31
+203,"Kovarro","M","Great Stallion","Boiled leather collar","Lowborn","Targaryen","N","0",199000,55.28
+204,"Eddison Tollett","M","Unknown/Unclear","Boiled leather collar","Lowborn","Night's Watch","N","1",181883,50.52
+205,"Craster","M","Other","Boiled leather collar","Lowborn","Other","N","1",40223,11.17
+206,"Gilly","F","Unknown/Unclear","Unknown/Unclear","Lowborn","Other","Y","0",198664,55.18
+207,"Cressen","M","Faith of the Seven","Silk collar","Lowborn","Other","N","1",427,0.12
+208,"Melisandre","F","Lord of Light","Silk collar","Lowborn","Other","Y","1",185116,51.42
+209,"Matthos Seaworth","M","Lord of Light","Boiled leather collar","Lowborn","Other","N","1",23619,6.56
+210,"Davos Seaworth","M","Other","Boiled leather collar","Lowborn","Stark","Y","0",198513,55.14
+211,"Selyse Baratheon","F","Lord of Light","Silk collar","Highborn","Other","N","1",116484,32.36
+212,"Stannis Baratheon","M","Lord of Light","Silk collar","Highborn","Other","N","1",117202,32.56
+213,"Alton Lannister","M","Unknown/Unclear","Boiled leather collar","Highborn","Lannister","N","1",17674,4.91
+214,"Marei","F","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","0",197182,54.77
+215,"Daisy","F","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","0",197180,54.77
+216,"Podrick Payne","M","Unknown/Unclear","Boiled leather collar","Lowborn","Stark","Y","0",195520,54.31
+217,"Yara Greyjoy","F","Drowned God","Boiled leather collar","Highborn","Greyjoy","Y","0",194992,54.16
+218,"Balon Greyjoy","M","Drowned God","Silk collar","Highborn","Greyjoy","N","1",121109,33.64
+219,"Salladhor Saan","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","0",194631,54.06
+220,"Brienne of Tarth","F","Faith of the Seven","Boiled leather collar","Highborn","Stark","Y","0",193283,53.69
+221,"Margaery Tyrell","F","Faith of the Seven","Silk collar","Highborn","Other","N","1",142170,39.49
+222,"Polliver","M","Unknown/Unclear","Boiled leather collar","Lowborn","Lannister","N","1",55009,15.28
+223,"Amory Lorch","M","Unknown/Unclear","Boiled leather collar","Lowborn","Lannister","N","1",14105,3.92
+224,"Rennick","M","Unknown/Unclear","Boiled leather collar","Lowborn","Lannister","N","1",107,0.03
+225,"Roose Bolton","M","Old Gods","Silk collar","Highborn","Bolton","Y","1",116268,32.3
+226,"Talisa Maegyr","F","Unknown/Unclear","Silk collar","Lowborn","Stark","N","1",47831,13.29
+227,"Tickler","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","1",4219,1.17
+228,"Silk King","M","Unknown/Unclear","Silk collar","Lowborn","Other","N","1",9331,2.59
+229,"Spice King","M","Unknown/Unclear","Silk collar","Lowborn","Other","N","1",9331,2.59
+230,"Xaro Xhoan Daxos","M","Unknown/Unclear","Silk collar","Lowborn","Other","N","1",19069,5.3
+231,"Pyat Pree","M","Unknown/Unclear","Silk collar","Lowborn","Other","N","1",18710,5.2
+232,"Lorren","M","Drowned God","Boiled leather collar","Lowborn","Greyjoy","N","1",17342,4.82
+233,"Dagmer Cleftjaw","M","Drowned God","Boiled leather collar","Lowborn","Greyjoy","N","1",17239,4.79
+234,"Reginald Lannister","M","Faith of the Seven","Boiled leather collar","Lowborn","Other","N","0",187034,51.95
+235,"Hallyne","M","Unknown/Unclear","Boiled leather collar","Lowborn","Lannister","Y","0",186544,51.82
+236,"Malakho","M","Great Stallion","Boiled leather collar","Lowborn","Targaryen","Y","0",186238,51.73
+237,"Quaithe","F","Unknown/Unclear","Boiled leather collar","Lowborn","Unknown/Unclear","N","0",186098,51.69
+238,"Qhorin Halfhand","M","Unknown/Unclear","Boiled leather collar","Lowborn","Night's Watch","N","1",15306,4.25
+239,"Farlen","M","Unknown/Unclear","Boiled leather collar","Lowborn","Stark","N","1",15209,4.22
+240,"Palla","F","Unknown/Unclear","Unknown/Unclear","Lowborn","Stark","N","1",15209,4.22
+241,"Ygritte","F","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","1",70905,19.7
+242,"Quent","M","Unknown/Unclear","Boiled leather collar","Lowborn","Stark","N","1",40126,11.15
+243,"Drennan","M","Drowned God","Boiled leather collar","Lowborn","Greyjoy","N","1",5983,1.66
+244,"Jacks","M","Old Gods","Boiled leather collar","Lowborn","Stark","N","1",39462,10.96
+245,"Torrhen Karstark","M","Unknown/Unclear","Boiled leather collar","Highborn","Stark","N","1",1213,0.34
+246,"Bernadette","F","Unknown/Unclear","Boiled leather collar","Lowborn","Lannister","N","0",180565,50.16
+247,"Lord of Bones","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","1",92455,25.68
+248,"Aggar","M","Drowned God","Boiled leather collar","Highborn","Greyjoy","N","1",1931,0.54
+249,"Gelmarr","M","Drowned God","Boiled leather collar","Lowborn","Greyjoy","N","1",1931,0.54
+250,"Urzen","M","Drowned God","Boiled leather collar","Lowborn","Greyjoy","N","1",1931,0.54
+251,"Wex","M","Drowned God","Boiled leather collar","Lowborn","Greyjoy","N","1",2021,0.56
+252,"Stygg","M","Drowned God","Boiled leather collar","Lowborn","Greyjoy","N","1",2021,0.56
+253,"Tormund Giantsbane","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","Y","0",169373,47.05
+254,"Mance Rayder","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","1",62896,17.47
+255,"Qyburn","M","Unknown/Unclear","Silk collar","Highborn","Lannister","Y","1",162665,45.18
+256,"Missandei","F","Unknown/Unclear","Boiled leather collar","Lowborn","Targaryen","Y","1",158125,43.92
+257,"Kranzys mo Nakloz","M","Unknown/Unclear","Silk collar","Highborn","Other","N","1",9187,2.55
+258,"Jojen Reed","M","Old Gods","Unknown/Unclear","Highborn","Stark","N","1",55806,15.5
+259,"Master Torturer","M","Unknown/Unclear","Boiled leather collar","Lowborn","Bolton","N","1",5378,1.49
+260,"Orell","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","1",21370,5.94
+261,"Meera Reed","F","Old Gods","Unknown/Unclear","Highborn","Stark","N","0",165145,45.87
+262,"Thoros of Myr","M","Lord of Light","Silk collar","Lowborn","Other","Y","1",134531,37.37
+263,"Anguy","M","Lord of Light","Boiled leather collar","Lowborn","Other","N","0",165013,45.84
+264,"Ramsay Bolton","M","Old Gods","Silk collar","Lowborn","Bolton","N","1",112241,31.18
+265,"Locke","M","Unknown/Unclear","Boiled leather collar","Lowborn","Bolton","N","1",39193,10.89
+266,"Brynden Tully","M","Unknown/Unclear","Boiled leather collar","Highborn","Other","N","1",107448,29.85
+267,"Edmure Tully","M","Unknown/Unclear","Boiled leather collar","Highborn","Stark","Y","0",163609,45.45
+268,"Olenna Tyrell","F","Unknown/Unclear","Silk collar","Highborn","Targaryen","Y","1",124467,34.57
+269,"Martyn Lannister","M","Unknown/Unclear","Boiled leather collar","Highborn","Lannister","N","1",5999,1.67
+270,"Willem Lannister","M","Unknown/Unclear","Boiled leather collar","Highborn","Lannister","N","1",6006,1.67
+271,"Karl Tanner","M","Unknown/Unclear","Boiled leather collar","Lowborn","Night's Watch","N","1",38194,10.61
+272,"Little Sam","M","Unknown/Unclear","Unknown/Unclear","Lowborn","Other","N","0",162293,45.08
+273,"Greizhen mo Ullhor","M","Unknown/Unclear","Silk collar","Lowborn","Other","N","1",4115,1.14
+274,"Genna ","F","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","0",161527,44.87
+275,"Kayla","F","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","0",161491,44.86
+276,"Shireen Baratheon","F","Unknown/Unclear","Unknown/Unclear","Highborn","Other","N","1",72888,20.25
+277,"Grey Worm","M","Unknown/Unclear","Boiled leather collar","Lowborn","Targaryen","N","0",155353,43.15
+278,"Olyvar","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","0",155049,43.07
+279,"Walder Rivers","M","Unknown/Unclear","Boiled leather collar","Highborn","Frey","N","1",103718,28.81
+280,"Lothar Frey","M","Unknown/Unclear","Boiled leather collar","Highborn","Frey","N","1",103718,28.81
+281,"Razdal mo Eraz","M","Other","Silk collar","Highborn","Other","N","1",95862,26.63
+282,"Violet","F","Unknown/Unclear","Boiled leather collar","Lowborn","Bolton","N","1",1019,0.28
+283,"Myranda","F","Faith of the Seven","Unknown/Unclear","Lowborn","Bolton","N","1",68673,19.08
+284,"Steelshanks","M","Unknown/Unclear","Boiled leather collar","Lowborn","Bolton","N","1",96879,26.91
+285,"Prendahl na Ghezn","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","1",2283,0.63
+286,"Mero","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","1",2283,0.63
+287,"Daario Naharis","M","Unknown/Unclear","Boiled leather collar","Lowborn","Targaryen","Y","0",148326,41.2
+288,"High Septon 2","M","Faith of the Seven","Silk collar","Lowborn","Other","N","0",147315,40.92
+289,"Walda Frey/Bolton","F","Unknown/Unclear","Unknown/Unclear","Lowborn","Bolton","N","1",71118,19.76
+290,"Freya Frey","F","Unknown/Unclear","Unknown/Unclear","Highborn","Frey","N","0",145321,40.37
+291,"Derwa Frey","F","Unknown/Unclear","Unknown/Unclear","Highborn","Frey","N","0",145321,40.37
+292,"Janeya Frey ","F","Unknown/Unclear","Unknown/Unclear","Highborn","Frey","N","0",145321,40.37
+293,"Marianne Frey","F","Unknown/Unclear","Unknown/Unclear","Highborn","Frey","N","0",145321,40.37
+294,"Merry Frey","F","Unknown/Unclear","Unknown/Unclear","Highborn","Frey","N","0",145321,40.37
+295,"Neyela Frey","F","Unknown/Unclear","Unknown/Unclear","Highborn","Frey","N","0",145321,40.37
+296,"Sarra Frey","F","Unknown/Unclear","Unknown/Unclear","Highborn","Frey","N","0",145321,40.37
+297,"Shirei Frey","F","Unknown/Unclear","Unknown/Unclear","Highborn","Frey","N","0",145321,40.37
+298,"Waldra Frey","F","Unknown/Unclear","Unknown/Unclear","Highborn","Frey","N","0",145321,40.37
+299,"Roslin Frey","F","Unknown/Unclear","Unknown/Unclear","Highborn","Frey","N","0",143862,39.96
+300,"Oberyn Martell","M","Faith of the Seven","Silk collar","Highborn","Other","N","1",23104,6.42
+301,"Ellaria Sand","F","Unknown/Unclear","Unknown/Unclear","Lowborn","Other","N","0",138769,38.55
+302,"Styr","M","Old Gods","Boiled leather collar","Lowborn","Other","N","1",24298,6.75
+303,"Thenn warg","M","Old Gods","Boiled leather collar","Lowborn","Other","N","1",24273,6.74
+304,"Tansy","F","Unknown/Unclear","Boiled leather collar","Lowborn","Bolton","N","1",113,0.03
+305,"Mace Tyrell","M","Unknown/Unclear","Silk collar","Highborn","Lannister","N","1",84179,23.38
+306,"Axell Florent","M","Faith of the Seven","Silk collar","Highborn","Other","N","1",16,0
+307,"Sally","F","Faith of the Seven","Unknown/Unclear","Lowborn","Unknown/Unclear","N","1",86271,23.96
+308,"Farmer (Sally's Father)","M","Faith of the Seven","Boiled leather collar","Lowborn","Other","N","1",86271,23.96
+309,"Mole's town whore","F","Unknown/Unclear","Boiled leather collar","Lowborn","Unknown/Unclear","N","1",13209,3.67
+310,"Mole's town madam","F","Unknown/Unclear","Boiled leather collar","Lowborn","Unknown/Unclear","N","1",15733,4.37
+311,"Guymon","M","Unknown/Unclear","Boiled leather collar","Lowborn","Unknown/Unclear","N","1",11,0
+312,"Olly","M","Unknown/Unclear","Boiled leather collar","Lowborn","Night's Watch","N","1",60343,16.76
+313,"Othell Yarwyck","M","Unknown/Unclear","Boiled leather collar","Lowborn","Night's Watch","N","1",60229,16.73
+314,"Great master 2","M","Unknown/Unclear","Silk collar","Highborn","Other","N","1",3313,0.92
+315,"Hizdahr zo Loraq","M","Other","Silk collar","Highborn","Targaryen","Y","1",47937,13.32
+316,"Oznak zo Pahl","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","1",250,0.07
+317,"Great master 3","M","Unknown/Unclear","Silk collar","Highborn","Other","N","0",130360,36.21
+318,"Great master 1","M","Unknown/Unclear","Silk collar","Highborn","Other","N","1",366,0.1
+319,"Sissy","F","Other","Unknown/Unclear","Lowborn","Other","N","0",127843,35.51
+320,"Morag","F","Other","Unknown/Unclear","Lowborn","Other","N","0",127712,35.48
+321,"Donnel Waynwood","M","Unknown/Unclear","Boiled leather collar","Highborn","Other","N","0",126473,35.13
+322,"Tycho Nestoris","M","Unknown/Unclear","Silk collar","Lowborn","Other","N","0",124008,34.45
+323,"Lhara","F","Unknown/Unclear","Boiled leather collar","Lowborn","Unknown/Unclear","N","0",123763,34.38
+324,"Goatherd","M","Unknown/Unclear","Boiled leather collar","Lowborn","Unknown/Unclear","N","0",123110,34.2
+325,"Goatherd's son","M","Unknown/Unclear","Boiled leather collar","Lowborn","Unknown/Unclear","N","0",122993,34.16
+326,"Adrack Humble","M","Drowned God","Boiled leather collar","Lowborn","Greyjoy","N","1",165,0.05
+327,"Ralf Kenning","M","Drowned God","Boiled leather collar","Lowborn","Greyjoy","N","1",136,0.04
+328,"Vance Corbray","M","Unknown/Unclear","Boiled leather collar","Highborn","Other","N","0",117554,32.65
+329,"Yohn Royce","M","Unknown/Unclear","Silk collar","Highborn","Stark","N","0",117554,32.65
+330,"Anya Waynwood","F","Unknown/Unclear","Silk collar","Highborn","Other","N","0",117554,32.65
+331,"Cooper","M","Unknown/Unclear","Boiled leather collar","Lowborn","Night's Watch","N","1",887,0.25
+332,"Donnel Hill","M","Unknown/Unclear","Boiled leather collar","Highborn","Night's Watch","N","1",887,0.25
+333,"Fennesz","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","0",111807,31.06
+334,"Three-Eyed Raven","M","Old Gods","Boiled leather collar","Lowborn","Other","N","1",46507,12.92
+335,"Ternesio Terys","M","Unknown/Unclear","Boiled leather collar","Lowborn","Unknown/Unclear","N","0",109419,30.39
+336,"White Rat","M","Unknown/Unclear","Boiled leather collar","Lowborn","Targaryen","N","1",117,0.03
+337,"Vala","F","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","0",108605,30.17
+338,"Mossador","M","Unknown/Unclear","Boiled leather collar","Lowborn","Targaryen","Y","1",4868,1.35
+339,"Samwell Stone","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","0",108088,30.02
+340,"Helliweg","M","Unknown/Unclear","Silk collar","Lowborn","Other","N","0",108086,30.02
+341,"Bowen Marsh","M","Unknown/Unclear","Boiled leather collar","Lowborn","Night's Watch","N","1",36343,10.1
+342,"Lollys Stokeworth","F","Unknown/Unclear","Unknown/Unclear","Highborn","Other","N","0",105572,29.33
+343,"Trystane Martell","M","Unknown/Unclear","Silk collar","Highborn","Other","N","1",28122,7.81
+344,"Areo Hotah","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","1",28005,7.78
+345,"Doran Martell","M","Unknown/Unclear","Silk collar","Highborn","Other","N","1",28056,7.79
+346,"Son of the Harpy","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","1",1281,0.36
+347,"Denys Mallister","M","Unknown/Unclear","Boiled leather collar","Lowborn","Night's Watch","N","0",104306,28.97
+348,"Waif","F","Many Faced God","Boiled leather collar","Lowborn","Other","N","1",48085,13.36
+349,"High Sparrow","M","Faith of the Seven","Silk collar","Lowborn","Other","N","1",49861,13.85
+350,"Red Priestess 1","F","Lord of Light","Silk collar","Lowborn","Unknown/Unclear","N","0",100459,27.91
+351,"Clea","F","Unknown/Unclear","Boiled leather collar","Lowborn","Unknown/Unclear","N","0",100295,27.86
+352,"Obara Sand","F","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","1",56037,15.57
+353,"Nymeria Sand","F","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","1",56059,15.57
+354,"Tyene Sand","F","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","1",57805,16.06
+355,"Joss","M","Many Faced God","Boiled leather collar","Lowborn","Unknown/Unclear","N","0",93780,26.05
+356,"Ghita","F","Many Faced God","Unknown/Unclear","Lowborn","Unknown/Unclear","N","1",175,0.05
+357,"Malko","M","Unknown/Unclear","Boiled leather collar","Lowborn","Unknown/Unclear","N","0",93278,25.91
+358,"Brant ","M","Unknown/Unclear","Boiled leather collar","Lowborn","Night's Watch","N","0",90356,25.1
+359,"Derek","M","Unknown/Unclear","Boiled leather collar","Lowborn","Night's Watch","N","0",90356,25.1
+360,"Yezzan zo Qaggaz","M","Unknown/Unclear","Silk collar","Lowborn","Other","N","0",89983,25
+361,"Unella","F","Faith of the Seven","Silk collar","Lowborn","Other","N","0",88225,24.51
+362,"Thin man","M","Unknown/Unclear","Silk collar","Lowborn","Unknown/Unclear","N","0",87727,24.37
+363,"Karsi","F","Old Gods","Boiled leather collar","Lowborn","Other","N","1",1176,0.33
+364,"Loboda","M","Old Gods","Boiled leather collar","Lowborn","Other","N","1",1001,0.28
+365,"Dim Dalba","M","Old Gods","Boiled leather collar","Lowborn","Other","N","1",34228,9.51
+366,"Johnna","F","Old Gods","Unknown/Unclear","Lowborn","Unknown/Unclear","N","0",85986,23.89
+367,"Willa","F","Old Gods","Unknown/Unclear","Lowborn","Unknown/Unclear","N","0",85986,23.89
+368,"Brusco","M","Unknown/Unclear","Boiled leather collar","Lowborn","Unknown/Unclear","N","0",83871,23.3
+369,"Brea","F","Unknown/Unclear","Boiled leather collar","Lowborn","Unknown/Unclear","N","0",83811,23.28
+370,"Aya","F","Unknown/Unclear","Boiled leather collar","Lowborn","Unknown/Unclear","N","0",83731,23.26
+371,"Anara","F","Unknown/Unclear","Boiled leather collar","Lowborn","Unknown/Unclear","N","0",83673,23.24
+372,"Simpson","M","Unknown/Unclear","Boiled leather collar","Lowborn","Bolton","N","1",36,0.01
+373,"Gordy","M","Unknown/Unclear","Boiled leather collar","Lowborn","Bolton","N","1",35,0.01
+374,"Scolera","F","Faith of the Seven","Silk collar","Lowborn","Other","N","1",28556,7.93
+375,"Moelle","F","Faith of the Seven","Silk collar","Lowborn","Other","N","1",28558,7.93
+376,"Maester Wolkan","M","Unknown/Unclear","Silk collar","Lowborn","Stark","N","0",78364,21.77
+377,"Caleotte","M","Unknown/Unclear","Silk collar","Lowborn","Other","N","1",28,0.01
+378,"Zanrush","M","Lord of Light","Silk collar","Lowborn","Other","N","0",77132,21.43
+379,"Aggo 2","M","Great Stallion","Boiled leather collar","Lowborn","Other","N","1",7838,2.18
+380,"Qhono","M","Great Stallion","Boiled leather collar","Lowborn","Targaryen","N","1",62265,17.3
+381,"Moro","M","Great Stallion","Boiled leather collar","Lowborn","Other","N","1",9483,2.63
+382,"Moro's wife 1","F","Great Stallion","Boiled leather collar","Lowborn","Other","N","0",76699,21.31
+383,"Moro's wife 2","F","Great Stallion","Boiled leather collar","Lowborn","Other","N","0",76699,21.31
+384,"Harald Karstark","M","Old Gods","Silk collar","Highborn","Bolton","Y","1",22543,6.26
+385,"Euron Greyjoy","M","Unknown/Unclear","Silk collar","Highborn","Lannister","Y","1",67940,18.87
+386,"Aeron Greyjoy","M","Drowned God","Unknown/Unclear","Highborn","Greyjoy","N","0",73755,20.49
+387,"High Priestess of the Dosh Khaleen","F","Great Stallion","Silk collar","Lowborn","Other","N","0",72125,20.03
+388,"Ornela","F","Great Stallion","Boiled leather collar","Lowborn","Targaryen","Y","0",72086,20.02
+389,"Frances","F","Unknown/Unclear","Boiled leather collar","Lowborn","Other","Y","0",71588,19.89
+390,"Arthur","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","0",71584,19.88
+391,"Small Jon Umber","M","Old Gods","Silk collar","Highborn","Bolton","Y","1",18197,5.05
+392,"Belicho Paenymion","M","Unknown/Unclear","Silk collar","Highborn","Other","N","1",14888,4.14
+393,"Ash","M","Unknown/Unclear","Boiled leather collar","Lowborn","Unknown/Unclear","Y","0",69516,19.31
+394,"Kesh","M","Unknown/Unclear","Boiled leather collar","Lowborn","Unknown/Unclear","Y","0",69516,19.31
+395,"Iggo","M","Great Stallion","Boiled leather collar","Lowborn","Unknown/Unclear","N","1",70,0.02
+396,"Forzho","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","1",337,0.09
+397,"Brozho","M","Great Stallion","Boiled leather collar","Lowborn","Other","N","1",337,0.09
+398,"Qorro","M","Great Stallion","Boiled leather collar","Lowborn","Other","N","1",337,0.09
+399,"Rhalko","M","Great Stallion","Boiled leather collar","Lowborn","Other","N","1",337,0.09
+400,"Izembaro","M","Unknown/Unclear","Boiled leather collar","Lowborn","Unknown/Unclear","N","0",66711,18.53
+401,"Clarenzo","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","0",66683,18.52
+402,"Crane","F","Unknown/Unclear","Boiled leather collar","Lowborn","Unknown/Unclear","N","1",10994,3.05
+403,"Bobono","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","0",66666,18.52
+404,"Camello","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","0",66648,18.51
+405,"Bianca","F","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","0",66551,18.49
+406,"Kinvara","F","Lord of Light","Silk collar","Lowborn","Targaryen","N","0",65511,18.2
+407,"Talla Tarly","F","Unknown/Unclear","Unknown/Unclear","Highborn","Other","N","0",63584,17.66
+408,"Melessa Tarly","F","Unknown/Unclear","Silk collar","Highborn","Other","N","0",63584,17.66
+409,"Dickon Tarly","M","Faith of the Seven","Boiled leather collar","Highborn","Lannister","N","1",27907,7.75
+410,"Randyll Tarly","M","Faith of the Seven","Silk collar","Highborn","Lannister","Y","1",27907,7.75
+411,"Kitty Frey","F","Faith of the Seven","Unknown/Unclear","Highborn","Frey","N","0",61835,17.18
+412,"Ray","M","Faith of the Seven","Silk collar","Lowborn","Other","N","1",2674,0.74
+413,"Lyanna Mormont","F","Old Gods","Silk collar","Highborn","Stark","N","1",44316,12.31
+414,"Robett Glover","M","Unknown/Unclear","Silk collar","Highborn","Stark","N","0",59525,16.53
+415,"Morgan","M","Lord of Light","Boiled leather collar","Lowborn","Other","N","1",870,0.24
+416,"Gatins","M","Lord of Light","Boiled leather collar","Lowborn","Other","N","1",901,0.25
+417,"Lem","M","Lord of Light","Boiled leather collar","Lowborn","Other","N","1",3046,0.85
+418,"Steve","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","1",62,0.02
+419,"Riddell","M","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","1",67,0.02
+420,"Red Priestess 2","F","Lord of Light","Silk collar","Lowborn","Other","N","0",57981,16.11
+421,"Citadel maester","M","Unknown/Unclear","Silk collar","Lowborn","Other","N","0",50455,14.02
+422,"Wyman Manderly","M","Faith of the Seven","Silk collar","Highborn","Stark","N","0",48811,13.56
+423,"Cley Cerwyn","M","Old Gods","Silk collar","Highborn","Stark","N","0",48799,13.56
+424,"Alys Karstark","F","Old Gods","Silk collar","Highborn","Stark","N","0",47754,13.27
+425,"Ned Umber","M","Old Gods","Silk collar","Highborn","Stark","Y","1",26263,7.3
+426,"Ebrose","M","Unknown/Unclear","Silk collar","Lowborn","Other","N","0",46682,12.97
+427,"Harrag","M","Unknown/Unclear","Boiled leather collar","Lowborn","Greyjoy","N","0",41495,11.53
+428,"Henk","M","Unknown/Unclear","Boiled leather collar","Lowborn","Stark","N","0",37941,10.54
+429,"Koner","M","Unknown/Unclear","Boiled leather collar","Lowborn","Stark","N","0",37941,10.54
+430,"Harry Strickland","M","Unknown/Unclear","Boiled leather collar","Lowborn","Lannister","N","1",16441,4.57
+431,"Craya","F","Unknown/Unclear","Boiled leather collar","Lowborn","Unknown/Unclear","N","0",23097,6.42
+432,"Dirah","F","Unknown/Unclear","Boiled leather collar","Lowborn","Unknown/Unclear","N","0",23097,6.42
+433,"Fergus","M","Unknown/Unclear","Boiled leather collar","Lowborn","Stark","N","0",20021,5.56
+434,"Fergus' Friend","M","Unknown/Unclear","Boiled leather collar","Lowborn","Stark","N","0",20021,5.56
+435,"Woman with Elderly Parents","F","Unknown/Unclear","Unknown/Unclear","Lowborn","Stark","N","0",19986,5.55
+436,"Teela","F","Unknown/Unclear","Unknown/Unclear","Lowborn","Stark","N","0",19956,5.54
+437,"Martha","F","Unknown/Unclear","Boiled leather collar","Lowborn","Other","N","0",14093,3.91
+438,"Winterfell girl","F","Unknown/Unclear","Unknown/Unclear","Lowborn","Stark","N","0",12412,3.45
+439,"Willa","F","Unknown/Unclear","Unknown/Unclear","Lowborn","Stark","N","0",12392,3.44
+440,"Sarra","F","Unknown/Unclear","Unknown/Unclear","Lowborn","Stark","N","0",12392,3.44
+441,"Nora","F","Unknown/Unclear","Unknown/Unclear","Lowborn","Lannister","N","1",3105,0.86
+442,"Nora's Daughter","F","Unknown/Unclear","Unknown/Unclear","Lowborn","Lannister","N","1",3105,0.86
+443,"Northern Sentry","M","Unknown/Unclear","Boiled leather collar","Lowborn","Stark","N","0",7886,2.19
+444,"Unsullied Sentry","M","Unknown/Unclear","Boiled leather collar","Lowborn","Targaryen","N","0",7847,2.18
+445,"Lannister Solider (Scorpion Command)","M","Unknown/Unclear","Boiled leather collar","Lowborn","Lannister","N","1",241,0.07
+446,"Lannister Soldier (Captain)","M","Unknown/Unclear","Boiled leather collar","Lowborn","Lannister","N","1",334,0.09
+447,"Lannister Soldier","M","Unknown/Unclear","Boiled leather collar","Lowborn","Lannister","N","1",333,0.09
+448,"King's Landing Citizen ","F","Unknown/Unclear","Unknown/Unclear","Lowborn","Lannister","N","1",8,0
+449,"King's Landing Citizen (Boy)","M","Unknown/Unclear","Unknown/Unclear","Lowborn","Lannister","N","0",6244,1.73
+450,"Rapist","M","Unknown/Unclear","Boiled leather collar","Lowborn","Stark","N","1",17,0
+451,"Crying Man","M","Unknown/Unclear","Boiled leather collar","Lowborn","Stark","N","0",4441,1.23
+452,"Lannister Soldier","M","Unknown/Unclear","Boiled leather collar","Lowborn","Lannister","N","0",4400,1.22
+453,"Unnamed Lord 1","M","Unknown/Unclear","Silk collar","Highborn","Stark","N","0",2046,0.57
+454,"Lord Une","M","Unknown/Unclear","Silk collar","Highborn","Stark","N","0",2031,0.56
+455,"Unnamed Northern Lord","M","Unknown/Unclear","Silk collar","Highborn","Stark","N","0",2030,0.56
+456,"Prince of Dorne","M","Unknown/Unclear","Silk collar","Highborn","Stark","N","0",2028,0.56
+457,"Unnamed Lord 2","M","Unknown/Unclear","Silk collar","Highborn","Stark","N","0",1901,0.53
+458,"Unsullied Lieutenant/Captain","M","Unknown/Unclear","Boiled leather collar","Lowborn","Targaryen","N","0",1152,0.32
